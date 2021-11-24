@@ -86,7 +86,6 @@ class _RecipeDetailState extends State<RecipeDetail> {
               activeColor: Colors.green,
               inactiveColor: Colors.black,
             ),
-
           ],
         ),
       ),
